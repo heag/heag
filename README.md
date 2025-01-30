@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hello visitor, I'm Hector, Welcome! 👋
 
-<!--
-**heag/heag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate Full Stack developer with experience in Angular, .NET and recently in React, never afraid of learning and facing new challengues.
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning React and Vue.
+- 👯 I’m looking to work as a Full Stack developer.
+- 💬 Ask me about [topics you are knowledgeable about].
+- 📫 Reach me here: heag.alvarez@gmail.com.
+- ⚡ Another activitiest: I also play the drums and trumpet and I contribute to create a great atmosphere in my team.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies & Tools
+- Programming Languages: JS, TypeScript, CSS3, HTML5, C#.
+- Frameworks & Libraries: Angular, React, .NET COre.
+- Methodologies and Tools: Scrum, Agile, Jira, VS Code.
+- Domains: Banking, Logistics, Manufacturing.
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/heagalvarez/)
